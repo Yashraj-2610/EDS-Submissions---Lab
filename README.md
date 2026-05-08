@@ -17,12 +17,6 @@ If the **While Loop Video** does not play directly in your browser:
 1. Click the [Video File Link](./While-Loop-in-Python%20(1).mp4).
 2. Click the **Download** button to view it locally.
 
----
-
-## 🛠️ Tech Stack
-* **Language:** Python
-* **Version Control:** Git & GitHub
-* **Domain:** AI & ML 
 
 ---
 
