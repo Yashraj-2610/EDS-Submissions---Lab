@@ -1,25 +1,32 @@
 # Exploratory Data Science (EDS) Lab Submissions
 
-This repository contains my lab assignments, coursework, and certifications for the Exploratory Data Science course.
+This repository contains my lab work and professional certifications for the EDS course at MITAOE.
 
-## 🚀 Repository Contents
+## 📚 Lab Assignments
 
-* **Certifications:** Industry-recognized certificates earned during the course.
-* **Media:** Video demonstrations of programming logic.
+| Assignment | Description | Status | Link |
+| :--- | :--- | :--- | :--- |
+| **01** | Python Essentials 1 & 2 (Cisco Certifications) | ✅ Completed | [Cert 1](./Python_Essentials_1_certificate_yashrajy8110-gmail-com_c3dc43ed-29d5-4392-90a8-2e7a587edd3a.pdf) / [Cert 2](./Python_Essentials_2_certificate_yashrajy8110-gmail-com_69e897a3-7afa-4c6d-a4ad-c20446d8f8b2.pdf) |
+| **02** | GitHub Repository Creation & Documentation | 🏗️ In Progress | [Current Repo](https://github.com/Yashraj-2610/EDS-Submissions---Lab) |
+| **Preskilet** | Python While Loop Logic Video | ✅ Uploaded | [Watch Video](./While-Loop-in-Python%20(1).mp4) |
 
 ---
 
-## 📚 Lab Assignments & Tasks
+## 📹 Media & Troubleshooting
+If the **While Loop Video** does not play directly in your browser:
+1. Click the [Video File Link](./While-Loop-in-Python%20(1).mp4).
+2. Click the **Download** button to view it locally.
 
-| Task # | Description | Status | Link |
-| :--- | :--- | :--- | :--- |
-| 1 | Python While Loop Demonstration | ✅ Completed | [View Video](./While-Loop-in-Python%20(1).mp4) |
-| 2 | Python Essentials 1 (Cisco) | ✅ Certified | [View PDF](./Python_Essentials_1_certificate_yashrajy8110-gmail-com_c3dc43ed-29d5-4392-90a8-2e7a587edd3a.pdf) |
-| 3 | Python Essentials 2 (Cisco) | ✅ Certified | [View PDF](./Python_Essentials_2_certificate_yashrajy8110-gmail-com_69e897a3-7afa-4c6d-a4ad-c20446d8f8b2.pdf) |
+---
 
+## 🛠️ Tech Stack
+* **Language:** Python
+* **Version Control:** Git & GitHub
+* **Domain:** AI & ML 
 
 ---
 
 ## 👤 About Me
 **Yashraj Jaykar Yadav**
-* Computer Science and Engineering (AI & ML) Student
+* First Year B.E. in Computer Science (AI & ML)
+* MIT Academy of Engineering, Pune
